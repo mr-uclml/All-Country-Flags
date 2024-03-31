@@ -1,0 +1,1107 @@
+[
+  {
+    "Flag": "",
+    "word": "A",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Afghanistan",
+    "PhonePrefix": "+93"
+  },
+  {
+    "Flag": "",
+    "Country": "Albania",
+    "PhonePrefix": "+355"
+  },
+  {
+    "Flag": "",
+    "Country": "Algeria",
+    "PhonePrefix": "+213"
+  },
+  {
+    "Flag": "",
+    "Country": "Andorra",
+    "PhonePrefix": "+376"
+  },
+  {
+    "Flag": "",
+    "Country": "Angola",
+    "PhonePrefix": "+244"
+  },
+  {
+    "Flag": "",
+    "Country": "Antigua and Barbuda",
+    "PhonePrefix": "+1-268"
+  },
+  {
+    "Flag": "",
+    "Country": "Argentina",
+    "PhonePrefix": "+54"
+  },
+  {
+    "Flag": "",
+    "Country": "Armenia",
+    "PhonePrefix": "+374"
+  },
+  {
+    "Flag": "",
+    "Country": "Australia",
+    "PhonePrefix": "+61"
+  },
+  {
+    "Flag": "",
+    "Country": "Austria",
+    "PhonePrefix": "+43"
+  },
+  {
+    "Flag": "",
+    "Country": "Azerbaijan",
+    "PhonePrefix": "+994"
+  },
+  {
+    "Flag": "",
+    "word": "B",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Bahamas",
+    "PhonePrefix": "+1-242"
+  },
+  {
+    "Flag": "",
+    "Country": "Bahrain",
+    "PhonePrefix": "+973"
+  },
+  {
+    "Flag": "",
+    "Country": "Bangladesh",
+    "PhonePrefix": "+880"
+  },
+  {
+    "Flag": "",
+    "Country": "Barbados",
+    "PhonePrefix": "+1-246"
+  },
+  {
+    "Flag": "",
+    "Country": "Belarus",
+    "PhonePrefix": "+375"
+  },
+  {
+    "Flag": "",
+    "Country": "Belgium",
+    "PhonePrefix": "+32"
+  },
+  {
+    "Flag": "",
+    "Country": "Belize",
+    "PhonePrefix": "+501"
+  },
+  {
+    "Flag": "",
+    "Country": "Benin",
+    "PhonePrefix": "+229"
+  },
+  {
+    "Flag": "",
+    "Country": "Bhutan",
+    "PhonePrefix": "+975"
+  },
+  {
+    "Flag": "",
+    "Country": "Bolivia",
+    "PhonePrefix": "+591"
+  },
+  {
+    "Flag": "",
+    "Country": "Bosnia and Herzegovina",
+    "PhonePrefix": "+387"
+  },
+  {
+    "Flag": "",
+    "Country": "Botswana",
+    "PhonePrefix": "+267"
+  },
+  {
+    "Flag": "",
+    "Country": "Brazil",
+    "PhonePrefix": "+55"
+  },
+  {
+    "Flag": "",
+    "Country": "Brunei",
+    "PhonePrefix": "+673"
+  },
+  {
+    "Flag": "",
+    "Country": "Bulgaria",
+    "PhonePrefix": "+359"
+  },
+  {
+    "Flag": "",
+    "Country": "Burkina Faso",
+    "PhonePrefix": "+226"
+  },
+  {
+    "Flag": "",
+    "Country": "Burundi",
+    "PhonePrefix": "+257"
+  },
+  {
+    "Flag": "",
+    "word": "C",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Cabo Verde",
+    "PhonePrefix": "+238"
+  },
+  {
+    "Flag": "",
+    "Country": "Cambodia",
+    "PhonePrefix": "+855"
+  },
+  {
+    "Flag": "",
+    "Country": "Cameroon",
+    "PhonePrefix": "+237"
+  },
+  {
+    "Flag": "",
+    "Country": "Canada",
+    "PhonePrefix": "+1"
+  },
+  {
+    "Flag": "",
+    "Country": "Central African Republic",
+    "PhonePrefix": "+236"
+  },
+  {
+    "Flag": "",
+    "Country": "Chad",
+    "PhonePrefix": "+235"
+  },
+  {
+    "Flag": "",
+    "Country": "Chile",
+    "PhonePrefix": "+56"
+  },
+  {
+    "Flag": "",
+    "Country": "China",
+    "PhonePrefix": "+86"
+  },
+  {
+    "Flag": "",
+    "Country": "Colombia",
+    "PhonePrefix": "+57"
+  },
+  {
+    "Flag": "",
+    "Country": "Comoros",
+    "PhonePrefix": "+269"
+  },
+  {
+    "Flag": "",
+    "Country": "Congo, Democratic Republic of the",
+    "PhonePrefix": "+243"
+  },
+  {
+    "Flag": "",
+    "Country": "Congo, Republic of the",
+    "PhonePrefix": "+242"
+  },
+  {
+    "Flag": "",
+    "Country": "Costa Rica",
+    "PhonePrefix": "+506"
+  },
+  {
+    "Flag": "",
+    "Country": "Cote d'Ivoire",
+    "PhonePrefix": "+225"
+  },
+  {
+    "Flag": "",
+    "Country": "Croatia",
+    "PhonePrefix": "+385"
+  },
+  {
+    "Flag": "",
+    "Country": "Cuba",
+    "PhonePrefix": "+53"
+  },
+  {
+    "Flag": "",
+    "Country": "Cyprus",
+    "PhonePrefix": "+357"
+  },
+  {
+    "Flag": "",
+    "Country": "Czechia",
+    "PhonePrefix": "+420"
+  },
+  {
+    "Flag": "",
+    "word": "D",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Denmark",
+    "PhonePrefix": "+45"
+  },
+  {
+    "Flag": "",
+    "Country": "Djibouti",
+    "PhonePrefix": "+253"
+  },
+  {
+    "Flag": "",
+    "Country": "Dominica",
+    "PhonePrefix": "+1-767"
+  },
+  {
+    "Flag": "",
+    "Country": "Dominican Republic",
+    "PhonePrefix": "+1-809, +1-829, +1-849"
+  },
+  {
+    "Flag": "",
+    "word": "E",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Ecuador",
+    "PhonePrefix": "+593"
+  },
+  {
+    "Flag": "",
+    "Country": "Egypt",
+    "PhonePrefix": "+20"
+  },
+  {
+    "Flag": "",
+    "Country": "El Salvador",
+    "PhonePrefix": "+503"
+  },
+  {
+    "Flag": "",
+    "Country": "Equatorial Guinea",
+    "PhonePrefix": "+240"
+  },
+  {
+    "Flag": "",
+    "Country": "Eritrea",
+    "PhonePrefix": "+291"
+  },
+  {
+    "Flag": "",
+    "Country": "Estonia",
+    "PhonePrefix": "+372"
+  },
+  {
+    "Flag": "",
+    "Country": "Eswatini",
+    "PhonePrefix": "+268"
+  },
+  {
+    "Flag": "",
+    "Country": "Ethiopia",
+    "PhonePrefix": "+251"
+  },
+  {
+    "Flag": "",
+    "word": "F",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Fiji",
+    "PhonePrefix": "+679"
+  },
+  {
+    "Flag": "",
+    "Country": "Finland",
+    "PhonePrefix": "+358"
+  },
+  {
+    "Flag": "",
+    "Country": "France",
+    "PhonePrefix": "+33"
+  },
+  {
+    "Flag": "",
+    "word": "G",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Gabon",
+    "PhonePrefix": "+241"
+  },
+  {
+    "Flag": "",
+    "Country": "Gambia",
+    "PhonePrefix": "+220"
+  },
+  {
+    "Flag": "",
+    "Country": "Georgia",
+    "PhonePrefix": "+995"
+  },
+  {
+    "Flag": "",
+    "Country": "Germany",
+    "PhonePrefix": "+49"
+  },
+  {
+    "Flag": "",
+    "Country": "Ghana",
+    "PhonePrefix": "+233"
+  },
+  {
+    "Flag": "",
+    "Country": "Greece",
+    "PhonePrefix": "+30"
+  },
+  {
+    "Flag": "",
+    "Country": "Grenada",
+    "PhonePrefix": "+1-473"
+  },
+  {
+    "Flag": "",
+    "Country": "Guatemala",
+    "PhonePrefix": "+502"
+  },
+  {
+    "Flag": "",
+    "Country": "Guinea",
+    "PhonePrefix": "+224"
+  },
+  {
+    "Flag": "",
+    "Country": "Guinea-Bissau",
+    "PhonePrefix": "+245"
+  },
+  {
+    "Flag": "",
+    "Country": "Guyana",
+    "PhonePrefix": "+592"
+  },
+  {
+    "Flag": "",
+    "word": "H",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Haiti",
+    "PhonePrefix": "+509"
+  },
+  {
+    "Flag": "",
+    "Country": "Honduras",
+    "PhonePrefix": "+504"
+  },
+  {
+    "Flag": "",
+    "Country": "Hungary",
+    "PhonePrefix": "+36"
+  },
+  {
+    "Flag": "",
+    "word": "I",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Iceland",
+    "PhonePrefix": "+354"
+  },
+  {
+    "Flag": "",
+    "Country": "India",
+    "PhonePrefix": "+91"
+  },
+  {
+    "Flag": "",
+    "Country": "Indonesia",
+    "PhonePrefix": "+62"
+  },
+  {
+    "Flag": "",
+    "Country": "Iran",
+    "PhonePrefix": "+98"
+  },
+  {
+    "Flag": "",
+    "Country": "Iraq",
+    "PhonePrefix": "+964"
+  },
+  {
+    "Flag": "",
+    "Country": "Ireland",
+    "PhonePrefix": "+353"
+  },
+  {
+    "Flag": "",
+    "Country": "Israel",
+    "PhonePrefix": "+972"
+  },
+  {
+    "Flag": "",
+    "Country": "Italy",
+    "PhonePrefix": "+39"
+  },
+  {
+    "Flag": "",
+    "word": "J",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Jamaica",
+    "PhonePrefix": "+1-876"
+  },
+  {
+    "Flag": "",
+    "Country": "Japan",
+    "PhonePrefix": "+81"
+  },
+  {
+    "Flag": "",
+    "Country": "Jordan",
+    "PhonePrefix": "+962"
+  },
+  {
+    "Flag": "",
+    "word": "K",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Kazakhstan",
+    "PhonePrefix": "+7"
+  },
+  {
+    "Flag": "",
+    "Country": "Kenya",
+    "PhonePrefix": "+254"
+  },
+  {
+    "Flag": "",
+    "Country": "Kiribati",
+    "PhonePrefix": "+686"
+  },
+  {
+    "Flag": "",
+    "Country": "Kosovo",
+    "PhonePrefix": "+383"
+  },
+  {
+    "Flag": "",
+    "Country": "Kuwait",
+    "PhonePrefix": "+965"
+  },
+  {
+    "Flag": "",
+    "Country": "Kyrgyzstan",
+    "PhonePrefix": "+996"
+  },
+  {
+    "Flag": "",
+    "word": "L",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Laos",
+    "PhonePrefix": "+856"
+  },
+  {
+    "Flag": "",
+    "Country": "Latvia",
+    "PhonePrefix": "+371"
+  },
+  {
+    "Flag": "",
+    "Country": "Lebanon",
+    "PhonePrefix": "+961"
+  },
+  {
+    "Flag": "",
+    "Country": "Lesotho",
+    "PhonePrefix": "+266"
+  },
+  {
+    "Flag": "",
+    "Country": "Liberia",
+    "PhonePrefix": "+231"
+  },
+  {
+    "Flag": "",
+    "Country": "Libya",
+    "PhonePrefix": "+218"
+  },
+  {
+    "Flag": "",
+    "Country": "Liechtenstein",
+    "PhonePrefix": "+423"
+  },
+  {
+    "Flag": "",
+    "Country": "Lithuania",
+    "PhonePrefix": "+370"
+  },
+  {
+    "Flag": "",
+    "Country": "Luxembourg",
+    "PhonePrefix": "+352"
+  },
+  {
+    "Flag": "",
+    "word": "M",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Madagascar",
+    "PhonePrefix": "+261"
+  },
+  {
+    "Flag": "",
+    "Country": "Malawi",
+    "PhonePrefix": "+265"
+  },
+  {
+    "Flag": "",
+    "Country": "Malaysia",
+    "PhonePrefix": "+60"
+  },
+  {
+    "Flag": "",
+    "Country": "Maldives",
+    "PhonePrefix": "+960"
+  },
+  {
+    "Flag": "",
+    "Country": "Mali",
+    "PhonePrefix": "+223"
+  },
+  {
+    "Flag": "",
+    "Country": "Malta",
+    "PhonePrefix": "+356"
+  },
+  {
+    "Flag": "",
+    "Country": "Marshall Islands",
+    "PhonePrefix": "+692"
+  },
+  {
+    "Flag": "",
+    "Country": "Mauritania",
+    "PhonePrefix": "+222"
+  },
+  {
+    "Flag": "",
+    "Country": "Mauritius",
+    "PhonePrefix": "+230"
+  },
+  {
+    "Flag": "",
+    "Country": "Mexico",
+    "PhonePrefix": "+52"
+  },
+  {
+    "Flag": "",
+    "Country": "Micronesia",
+    "PhonePrefix": "+691"
+  },
+  {
+    "Flag": "",
+    "Country": "Moldova",
+    "PhonePrefix": "+373"
+  },
+  {
+    "Flag": "",
+    "Country": "Monaco",
+    "PhonePrefix": "+377"
+  },
+  {
+    "Flag": "",
+    "Country": "Mongolia",
+    "PhonePrefix": "+976"
+  },
+  {
+    "Flag": "",
+    "Country": "Montenegro",
+    "PhonePrefix": "+382"
+  },
+  {
+    "Flag": "",
+    "Country": "Morocco",
+    "PhonePrefix": "+212"
+  },
+  {
+    "Flag": "",
+    "Country": "Mozambique",
+    "PhonePrefix": "+258"
+  },
+  {
+    "Flag": "",
+    "Country": "Myanmar",
+    "PhonePrefix": "+95"
+  },
+  {
+    "Flag": "",
+    "word": "N",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Namibia",
+    "PhonePrefix": "+264"
+  },
+  {
+    "Flag": "",
+    "Country": "Nauru",
+    "PhonePrefix": "+674"
+  },
+  {
+    "Flag": "",
+    "Country": "Nepal",
+    "PhonePrefix": "+977"
+  },
+  {
+    "Flag": "",
+    "Country": "Netherlands",
+    "PhonePrefix": "+31"
+  },
+  {
+    "Flag": "",
+    "Country": "New Zealand",
+    "PhonePrefix": "+64"
+  },
+  {
+    "Flag": "",
+    "Country": "Nicaragua",
+    "PhonePrefix": "+505"
+  },
+  {
+    "Flag": "",
+    "Country": "Niger",
+    "PhonePrefix": "+227"
+  },
+  {
+    "Flag": "",
+    "Country": "Nigeria",
+    "PhonePrefix": "+234"
+  },
+  {
+    "Flag": "",
+    "Country": "North Korea",
+    "PhonePrefix": "+850"
+  },
+  {
+    "Flag": "",
+    "Country": "North Macedonia",
+    "PhonePrefix": "+389"
+  },
+  {
+    "Flag": "",
+    "Country": "Norway",
+    "PhonePrefix": "+47"
+  },
+  {
+    "Flag": "",
+    "word": "O",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Oman",
+    "PhonePrefix": "+968"
+  },
+  {
+    "Flag": "",
+    "word": "P",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Pakistan",
+    "PhonePrefix": "+92"
+  },
+  {
+    "Flag": "",
+    "Country": "Palau",
+    "PhonePrefix": "+680"
+  },
+  {
+    "Flag": "",
+    "Country": "Palestine",
+    "PhonePrefix": "+970"
+  },
+  {
+    "Flag": "",
+    "Country": "Panama",
+    "PhonePrefix": "+507"
+  },
+  {
+    "Flag": "",
+    "Country": "Papua New Guinea",
+    "PhonePrefix": "+675"
+  },
+  {
+    "Flag": "",
+    "Country": "Paraguay",
+    "PhonePrefix": "+595"
+  },
+  {
+    "Flag": "",
+    "Country": "Peru",
+    "PhonePrefix": "+51"
+  },
+  {
+    "Flag": "",
+    "Country": "Philippines",
+    "PhonePrefix": "+63"
+  },
+  {
+    "Flag": "",
+    "Country": "Poland",
+    "PhonePrefix": "+48"
+  },
+  {
+    "Flag": "",
+    "Country": "Portugal",
+    "PhonePrefix": "+351"
+  },
+  {
+    "Flag": "",
+    "word": "Q",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Qatar",
+    "PhonePrefix": "+974"
+  },
+  {
+    "Flag": "",
+    "word": "R",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Romania",
+    "PhonePrefix": "+40"
+  },
+  {
+    "Flag": "",
+    "Country": "Russia",
+    "PhonePrefix": "+7"
+  },
+  {
+    "Flag": "",
+    "Country": "Rwanda",
+    "PhonePrefix": "+250"
+  },
+  {
+    "Flag": "",
+    "word": "S",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Saint Kitts and Nevis",
+    "PhonePrefix": "+1-869"
+  },
+  {
+    "Flag": "",
+    "Country": "Saint Lucia",
+    "PhonePrefix": "+1-758"
+  },
+  {
+    "Flag": "",
+    "Country": "Saint Vincent and the Grenadines",
+    "PhonePrefix": "+1-784"
+  },
+  {
+    "Flag": "",
+    "Country": "Samoa",
+    "PhonePrefix": "+685"
+  },
+  {
+    "Flag": "",
+    "Country": "San Marino",
+    "PhonePrefix": "+378"
+  },
+  {
+    "Flag": "",
+    "Country": "Sao Tome and Principe",
+    "PhonePrefix": "+239"
+  },
+  {
+    "Flag": "",
+    "Country": "Saudi Arabia",
+    "PhonePrefix": "+966"
+  },
+  {
+    "Flag": "",
+    "Country": "Senegal",
+    "PhonePrefix": "+221"
+  },
+  {
+    "Flag": "",
+    "Country": "Serbia",
+    "PhonePrefix": "+381"
+  },
+  {
+    "Flag": "",
+    "Country": "Seychelles",
+    "PhonePrefix": "+248"
+  },
+  {
+    "Flag": "",
+    "Country": "Sierra Leone",
+    "PhonePrefix": "+232"
+  },
+  {
+    "Flag": "",
+    "Country": "Singapore",
+    "PhonePrefix": "+65"
+  },
+  {
+    "Flag": "",
+    "Country": "Slovakia",
+    "PhonePrefix": "+421"
+  },
+  {
+    "Flag": "",
+    "Country": "Slovenia",
+    "PhonePrefix": "+386"
+  },
+  {
+    "Flag": "",
+    "Country": "Solomon Islands",
+    "PhonePrefix": "+677"
+  },
+  {
+    "Flag": "",
+    "Country": "Somalia",
+    "PhonePrefix": "+252"
+  },
+  {
+    "Flag": "",
+    "Country": "South Africa",
+    "PhonePrefix": "+27"
+  },
+  {
+    "Flag": "",
+    "Country": "South Korea",
+    "PhonePrefix": "+82"
+  },
+  {
+    "Flag": "",
+    "Country": "South Sudan",
+    "PhonePrefix": "+211"
+  },
+  {
+    "Flag": "",
+    "Country": "Spain",
+    "PhonePrefix": "+34"
+  },
+  {
+    "Flag": "",
+    "Country": "Sri Lanka",
+    "PhonePrefix": "+94"
+  },
+  {
+    "Flag": "",
+    "Country": "Sudan",
+    "PhonePrefix": "+249"
+  },
+  {
+    "Flag": "",
+    "Country": "Suriname",
+    "PhonePrefix": "+597"
+  },
+  {
+    "Flag": "",
+    "Country": "Sweden",
+    "PhonePrefix": "+46"
+  },
+  {
+    "Flag": "",
+    "Country": "Switzerland",
+    "PhonePrefix": "+41"
+  },
+  {
+    "Flag": "",
+    "Country": "Syria",
+    "PhonePrefix": "+963"
+  },
+  {
+    "Flag": "",
+    "word": "T",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Taiwan",
+    "PhonePrefix": "+886"
+  },
+  {
+    "Flag": "",
+    "Country": "Tajikistan",
+    "PhonePrefix": "+992"
+  },
+  {
+    "Flag": "",
+    "Country": "Tanzania",
+    "PhonePrefix": "+255"
+  },
+  {
+    "Flag": "",
+    "Country": "Thailand",
+    "PhonePrefix": "+66"
+  },
+  {
+    "Flag": "",
+    "Country": "Timor-Leste",
+    "PhonePrefix": "+670"
+  },
+  {
+    "Flag": "",
+    "Country": "Togo",
+    "PhonePrefix": "+228"
+  },
+  {
+    "Flag": "",
+    "Country": "Tonga",
+    "PhonePrefix": "+676"
+  },
+  {
+    "Flag": "",
+    "Country": "Trinidad and Tobago",
+    "PhonePrefix": "+1-868"
+  },
+  {
+    "Flag": "",
+    "Country": "Tunisia",
+    "PhonePrefix": "+216"
+  },
+  {
+    "Flag": "",
+    "Country": "Turkey",
+    "PhonePrefix": "+90"
+  },
+  {
+    "Flag": "",
+    "Country": "Turkmenistan",
+    "PhonePrefix": "+993"
+  },
+  {
+    "Flag": "",
+    "Country": "Tuvalu",
+    "PhonePrefix": "+688"
+  },
+  {
+    "Flag": "",
+    "word": "U",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Uganda",
+    "PhonePrefix": "+256"
+  },
+  {
+    "Flag": "",
+    "Country": "Ukraine",
+    "PhonePrefix": "+380"
+  },
+  {
+    "Flag": "",
+    "Country": "United Arab Emirates",
+    "PhonePrefix": "+971"
+  },
+  {
+    "Flag": "",
+    "Country": "United Kingdom",
+    "PhonePrefix": "+44"
+  },
+  {
+    "Flag": "",
+    "Country": "United States",
+    "PhonePrefix": "+1"
+  },
+  {
+    "Flag": "",
+    "Country": "Uruguay",
+    "PhonePrefix": "+598"
+  },
+  {
+    "Flag": "",
+    "Country": "Uzbekistan",
+    "PhonePrefix": "+998"
+  },
+  {
+    "Flag": "",
+    "word": "V",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Vanuatu",
+    "PhonePrefix": "+678"
+  },
+  {
+    "Flag": "",
+    "Country": "Vatican City",
+    "PhonePrefix": "+379"
+  },
+  {
+    "Flag": "",
+    "Country": "Venezuela",
+    "PhonePrefix": "+58"
+  },
+  {
+    "Flag": "",
+    "Country": "Vietnam",
+    "PhonePrefix": "+84"
+  },
+  {
+    "Flag": "",
+    "word": "Y",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Yemen",
+    "PhonePrefix": "+967"
+  },
+  {
+    "Flag": "",
+    "word": "Z",
+    "PhonePrefix": ""
+  },
+  {
+    "Flag": "",
+    "Country": "Zambia",
+    "PhonePrefix": "+260"
+  },
+  {
+    "Flag": "",
+    "Country": "Zimbabwe",
+    "PhonePrefix": "+263"
+  }
+]
