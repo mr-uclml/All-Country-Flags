@@ -1,1083 +1,1454 @@
 [
   {
-    "Flag": "",
-    "word": "A"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/af.png",
     "Country": "Afghanistan",
-    "PhonePrefix": "+93"
+    "PhonePrefix": "+93",
+    "CountryCode": "AF"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/al.png",
     "Country": "Albania",
-    "PhonePrefix": "+355"
+    "PhonePrefix": "+355",
+    "CountryCode": "AL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/dz.png",
     "Country": "Algeria",
-    "PhonePrefix": "+213"
+    "PhonePrefix": "+213",
+    "CountryCode": "DZ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ad.png",
     "Country": "Andorra",
-    "PhonePrefix": "+376"
+    "PhonePrefix": "+376",
+    "CountryCode": "AD"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ao.png",
     "Country": "Angola",
-    "PhonePrefix": "+244"
+    "PhonePrefix": "+244",
+    "CountryCode": "AO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ag.png",
     "Country": "Antigua and Barbuda",
-    "PhonePrefix": "+1-268"
+    "PhonePrefix": "+1-268",
+    "CountryCode": "AG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ar.png",
     "Country": "Argentina",
-    "PhonePrefix": "+54"
+    "PhonePrefix": "+54",
+    "CountryCode": "AR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/am.png",
     "Country": "Armenia",
-    "PhonePrefix": "+374"
+    "PhonePrefix": "+374",
+    "CountryCode": "AM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/au.png",
     "Country": "Australia",
-    "PhonePrefix": "+61"
+    "PhonePrefix": "+61",
+    "CountryCode": "AU"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/at.png",
     "Country": "Austria",
-    "PhonePrefix": "+43"
+    "PhonePrefix": "+43",
+    "CountryCode": "AT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/az.png",
     "Country": "Azerbaijan",
-    "PhonePrefix": "+994"
+    "PhonePrefix": "+994",
+    "CountryCode": "AZ"
   },
   {
-    "Flag": "",
-    "word": "B"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bs.png",
     "Country": "Bahamas",
-    "PhonePrefix": "+1-242"
+    "PhonePrefix": "+1-242",
+    "CountryCode": "BS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bh.png",
     "Country": "Bahrain",
-    "PhonePrefix": "+973"
+    "PhonePrefix": "+973",
+    "CountryCode": "BH"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bd.png",
     "Country": "Bangladesh",
-    "PhonePrefix": "+880"
+    "PhonePrefix": "+880",
+    "CountryCode": "BD"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bb.png",
     "Country": "Barbados",
-    "PhonePrefix": "+1-246"
+    "PhonePrefix": "+1-246",
+    "CountryCode": "BB"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/by.png",
     "Country": "Belarus",
-    "PhonePrefix": "+375"
+    "PhonePrefix": "+375",
+    "CountryCode": "BY"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/be.png",
     "Country": "Belgium",
-    "PhonePrefix": "+32"
+    "PhonePrefix": "+32",
+    "CountryCode": "BE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bz.png",
     "Country": "Belize",
-    "PhonePrefix": "+501"
+    "PhonePrefix": "+501",
+    "CountryCode": "BZ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bj.png",
     "Country": "Benin",
-    "PhonePrefix": "+229"
+    "PhonePrefix": "+229",
+    "CountryCode": "BJ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bt.png",
     "Country": "Bhutan",
-    "PhonePrefix": "+975"
+    "PhonePrefix": "+975",
+    "CountryCode": "BT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bo.png",
     "Country": "Bolivia",
-    "PhonePrefix": "+591"
+    "PhonePrefix": "+591",
+    "CountryCode": "BO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ba.png",
     "Country": "Bosnia and Herzegovina",
-    "PhonePrefix": "+387"
+    "PhonePrefix": "+387",
+    "CountryCode": "BA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bw.png",
     "Country": "Botswana",
-    "PhonePrefix": "+267"
+    "PhonePrefix": "+267",
+    "CountryCode": "BW"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bv.png",
+    "Country": "Bouvet Island",
+    "PhonePrefix": "+47",
+    "CountryCode": "BV"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/br.png",
     "Country": "Brazil",
-    "PhonePrefix": "+55"
+    "PhonePrefix": "+55",
+    "CountryCode": "BR"
   },
   {
-    "Flag": "",
-    "Country": "Brunei",
-    "PhonePrefix": "+673"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/io.png",
+    "Country": "British Indian Ocean Territory",
+    "PhonePrefix": "+246",
+    "CountryCode": "IO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bn.png",
+    "Country": "Brunei Darussalam",
+    "PhonePrefix": "+673",
+    "CountryCode": "BN"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bg.png",
     "Country": "Bulgaria",
-    "PhonePrefix": "+359"
+    "PhonePrefix": "+359",
+    "CountryCode": "BG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bf.png",
     "Country": "Burkina Faso",
-    "PhonePrefix": "+226"
+    "PhonePrefix": "+226",
+    "CountryCode": "BF"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bi.png",
     "Country": "Burundi",
-    "PhonePrefix": "+257"
+    "PhonePrefix": "+257",
+    "CountryCode": "BI"
   },
   {
-    "Flag": "",
-    "word": "C"
-  },
-  {
-    "Flag": "",
-    "Country": "Cabo Verde",
-    "PhonePrefix": "+238"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kh.png",
     "Country": "Cambodia",
-    "PhonePrefix": "+855"
+    "PhonePrefix": "+855",
+    "CountryCode": "KH"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cm.png",
     "Country": "Cameroon",
-    "PhonePrefix": "+237"
+    "PhonePrefix": "+237",
+    "CountryCode": "CM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ca.png",
     "Country": "Canada",
-    "PhonePrefix": "+1"
+    "PhonePrefix": "+1",
+    "CountryCode": "CA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cv.png",
+    "Country": "Cape Verde",
+    "PhonePrefix": "+238",
+    "CountryCode": "CV"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ky.png",
+    "Country": "Cayman Islands",
+    "PhonePrefix": "+1-345",
+    "CountryCode": "KY"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cf.png",
     "Country": "Central African Republic",
-    "PhonePrefix": "+236"
+    "PhonePrefix": "+236",
+    "CountryCode": "CF"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/td.png",
     "Country": "Chad",
-    "PhonePrefix": "+235"
+    "PhonePrefix": "+235",
+    "CountryCode": "TD"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cl.png",
     "Country": "Chile",
-    "PhonePrefix": "+56"
+    "PhonePrefix": "+56",
+    "CountryCode": "CL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cn.png",
     "Country": "China",
-    "PhonePrefix": "+86"
+    "PhonePrefix": "+86",
+    "CountryCode": "CN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cx.png",
+    "Country": "Christmas Island",
+    "PhonePrefix": "+61",
+    "CountryCode": "CX"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cc.png",
+    "Country": "Cocos (Keeling) Islands",
+    "PhonePrefix": "+61",
+    "CountryCode": "CC"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/co.png",
     "Country": "Colombia",
-    "PhonePrefix": "+57"
+    "PhonePrefix": "+57",
+    "CountryCode": "CO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/km.png",
     "Country": "Comoros",
-    "PhonePrefix": "+269"
+    "PhonePrefix": "+269",
+    "CountryCode": "KM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cg.png",
+    "Country": "Congo",
+    "PhonePrefix": "+242",
+    "CountryCode": "CG"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cd.png",
     "Country": "Congo, Democratic Republic of the",
-    "PhonePrefix": "+243"
+    "PhonePrefix": "+243",
+    "CountryCode": "CD"
   },
   {
-    "Flag": "",
-    "Country": "Congo, Republic of the",
-    "PhonePrefix": "+242"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ck.png",
+    "Country": "Cook Islands",
+    "PhonePrefix": "+682",
+    "CountryCode": "CK"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cr.png",
     "Country": "Costa Rica",
-    "PhonePrefix": "+506"
+    "PhonePrefix": "+506",
+    "CountryCode": "CR"
   },
   {
-    "Flag": "",
-    "Country": "Cote d'Ivoire",
-    "PhonePrefix": "+225"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/hr.png",
     "Country": "Croatia",
-    "PhonePrefix": "+385"
+    "PhonePrefix": "+385",
+    "CountryCode": "HR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cu.png",
     "Country": "Cuba",
-    "PhonePrefix": "+53"
+    "PhonePrefix": "+53",
+    "CountryCode": "CU"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cy.png",
     "Country": "Cyprus",
-    "PhonePrefix": "+357"
+    "PhonePrefix": "+357",
+    "CountryCode": "CY"
   },
   {
-    "Flag": "",
-    "Country": "Czechia",
-    "PhonePrefix": "+420"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/cz.png",
+    "Country": "Czech Republic",
+    "PhonePrefix": "+420",
+    "CountryCode": "CZ"
   },
   {
-    "Flag": "",
-    "word": "D"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/dk.png",
     "Country": "Denmark",
-    "PhonePrefix": "+45"
+    "PhonePrefix": "+45",
+    "CountryCode": "DK"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/dj.png",
     "Country": "Djibouti",
-    "PhonePrefix": "+253"
+    "PhonePrefix": "+253",
+    "CountryCode": "DJ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/dm.png",
     "Country": "Dominica",
-    "PhonePrefix": "+1-767"
+    "PhonePrefix": "+1-767",
+    "CountryCode": "DM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/do.png",
     "Country": "Dominican Republic",
-    "PhonePrefix": "+1-809, +1-829, +1-849"
+    "PhonePrefix": "+1-809",
+    "CountryCode": "DO"
   },
   {
-    "Flag": "",
-    "word": "E"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tl.png",
+    "Country": "East Timor",
+    "PhonePrefix": "+670",
+    "CountryCode": "TL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ec.png",
     "Country": "Ecuador",
-    "PhonePrefix": "+593"
+    "PhonePrefix": "+593",
+    "CountryCode": "EC"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/eg.png",
     "Country": "Egypt",
-    "PhonePrefix": "+20"
+    "PhonePrefix": "+20",
+    "CountryCode": "EG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sv.png",
     "Country": "El Salvador",
-    "PhonePrefix": "+503"
+    "PhonePrefix": "+503",
+    "CountryCode": "SV"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gq.png",
     "Country": "Equatorial Guinea",
-    "PhonePrefix": "+240"
+    "PhonePrefix": "+240",
+    "CountryCode": "GQ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/er.png",
     "Country": "Eritrea",
-    "PhonePrefix": "+291"
+    "PhonePrefix": "+291",
+    "CountryCode": "ER"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ee.png",
     "Country": "Estonia",
-    "PhonePrefix": "+372"
+    "PhonePrefix": "+372",
+    "CountryCode": "EE"
   },
   {
-    "Flag": "",
-    "Country": "Eswatini",
-    "PhonePrefix": "+268"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/et.png",
     "Country": "Ethiopia",
-    "PhonePrefix": "+251"
+    "PhonePrefix": "+251",
+    "CountryCode": "ET"
   },
   {
-    "Flag": "",
-    "word": "F"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/fk.png",
+    "Country": "Falkland Islands (Malvinas)",
+    "PhonePrefix": "+500",
+    "CountryCode": "FK"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/fo.png",
+    "Country": "Faroe Islands",
+    "PhonePrefix": "+298",
+    "CountryCode": "FO"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/fj.png",
     "Country": "Fiji",
-    "PhonePrefix": "+679"
+    "PhonePrefix": "+679",
+    "CountryCode": "FJ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/fi.png",
     "Country": "Finland",
-    "PhonePrefix": "+358"
+    "PhonePrefix": "+358",
+    "CountryCode": "FI"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/fr.png",
     "Country": "France",
-    "PhonePrefix": "+33"
+    "PhonePrefix": "+33",
+    "CountryCode": "FR"
   },
   {
-    "Flag": "",
-    "word": "G"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gf.png",
+    "Country": "French Guiana",
+    "PhonePrefix": "+594",
+    "CountryCode": "GF"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pf.png",
+    "Country": "French Polynesia",
+    "PhonePrefix": "+689",
+    "CountryCode": "PF"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tf.png",
+    "Country": "French Southern Territories",
+    "PhonePrefix": "+262",
+    "CountryCode": "TF"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ga.png",
     "Country": "Gabon",
-    "PhonePrefix": "+241"
+    "PhonePrefix": "+241",
+    "CountryCode": "GA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gm.png",
     "Country": "Gambia",
-    "PhonePrefix": "+220"
+    "PhonePrefix": "+220",
+    "CountryCode": "GM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ge.png",
     "Country": "Georgia",
-    "PhonePrefix": "+995"
+    "PhonePrefix": "+995",
+    "CountryCode": "GE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/de.png",
     "Country": "Germany",
-    "PhonePrefix": "+49"
+    "PhonePrefix": "+49",
+    "CountryCode": "DE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gh.png",
     "Country": "Ghana",
-    "PhonePrefix": "+233"
+    "PhonePrefix": "+233",
+    "CountryCode": "GH"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gi.png",
+    "Country": "Gibraltar",
+    "PhonePrefix": "+350",
+    "CountryCode": "GI"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gr.png",
     "Country": "Greece",
-    "PhonePrefix": "+30"
+    "PhonePrefix": "+30",
+    "CountryCode": "GR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gl.png",
+    "Country": "Greenland",
+    "PhonePrefix": "+299",
+    "CountryCode": "GL"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gd.png",
     "Country": "Grenada",
-    "PhonePrefix": "+1-473"
+    "PhonePrefix": "+1-473",
+    "CountryCode": "GD"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gp.png",
+    "Country": "Guadeloupe",
+    "PhonePrefix": "+590",
+    "CountryCode": "GP"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gu.png",
+    "Country": "Guam",
+    "PhonePrefix": "+1-671",
+    "CountryCode": "GU"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gt.png",
     "Country": "Guatemala",
-    "PhonePrefix": "+502"
+    "PhonePrefix": "+502",
+    "CountryCode": "GT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gg.png",
+    "Country": "Guernsey",
+    "PhonePrefix": "+44-1481",
+    "CountryCode": "GG"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gn.png",
     "Country": "Guinea",
-    "PhonePrefix": "+224"
+    "PhonePrefix": "+224",
+    "CountryCode": "GN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gw.png",
     "Country": "Guinea-Bissau",
-    "PhonePrefix": "+245"
+    "PhonePrefix": "+245",
+    "CountryCode": "GW"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gy.png",
     "Country": "Guyana",
-    "PhonePrefix": "+592"
+    "PhonePrefix": "+592",
+    "CountryCode": "GY"
   },
   {
-    "Flag": "",
-    "word": "H"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ht.png",
     "Country": "Haiti",
-    "PhonePrefix": "+509"
+    "PhonePrefix": "+509",
+    "CountryCode": "HT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/hm.png",
+    "Country": "Heard Island and McDonald Islands",
+    "PhonePrefix": "+ ",
+    "CountryCode": "HM"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ho.png",
+    "Country": "Holy See (Vatican City State)",
+    "PhonePrefix": "+379",
+    "CountryCode": "HO"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/hn.png",
     "Country": "Honduras",
-    "PhonePrefix": "+504"
+    "PhonePrefix": "+504",
+    "CountryCode": "HN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/hk.png",
+    "Country": "Hong Kong",
+    "PhonePrefix": "+852",
+    "CountryCode": "HK"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/hu.png",
     "Country": "Hungary",
-    "PhonePrefix": "+36"
+    "PhonePrefix": "+36",
+    "CountryCode": "HU"
   },
   {
-    "Flag": "",
-    "word": "I"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/is.png",
     "Country": "Iceland",
-    "PhonePrefix": "+354"
+    "PhonePrefix": "+354",
+    "CountryCode": "IS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/in.png",
     "Country": "India",
-    "PhonePrefix": "+91"
+    "PhonePrefix": "+91",
+    "CountryCode": "IN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/id.png",
     "Country": "Indonesia",
-    "PhonePrefix": "+62"
+    "PhonePrefix": "+62",
+    "CountryCode": "ID"
   },
   {
-    "Flag": "",
-    "Country": "Iran",
-    "PhonePrefix": "+98"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ir.png",
+    "Country": "Iran, Islamic Republic of",
+    "PhonePrefix": "+98",
+    "CountryCode": "IR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/iq.png",
     "Country": "Iraq",
-    "PhonePrefix": "+964"
+    "PhonePrefix": "+964",
+    "CountryCode": "IQ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ie.png",
     "Country": "Ireland",
-    "PhonePrefix": "+353"
+    "PhonePrefix": "+353",
+    "CountryCode": "IE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/im.png",
+    "Country": "Isle of Man",
+    "PhonePrefix": "+44-1624",
+    "CountryCode": "IM"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/il.png",
     "Country": "Israel",
-    "PhonePrefix": "+972"
+    "PhonePrefix": "+972",
+    "CountryCode": "IL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/it.png",
     "Country": "Italy",
-    "PhonePrefix": "+39"
+    "PhonePrefix": "+39",
+    "CountryCode": "IT"
   },
   {
-    "Flag": "",
-    "word": "J"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/jm.png",
     "Country": "Jamaica",
-    "PhonePrefix": "+1-876"
+    "PhonePrefix": "+1-876",
+    "CountryCode": "JM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/jp.png",
     "Country": "Japan",
-    "PhonePrefix": "+81"
+    "PhonePrefix": "+81",
+    "CountryCode": "JP"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/je.png",
+    "Country": "Jersey",
+    "PhonePrefix": "+44-1534",
+    "CountryCode": "JE"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/jo.png",
     "Country": "Jordan",
-    "PhonePrefix": "+962"
+    "PhonePrefix": "+962",
+    "CountryCode": "JO"
   },
   {
-    "Flag": "",
-    "word": "K"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kz.png",
     "Country": "Kazakhstan",
-    "PhonePrefix": "+7"
+    "PhonePrefix": "+7",
+    "CountryCode": "KZ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ke.png",
     "Country": "Kenya",
-    "PhonePrefix": "+254"
+    "PhonePrefix": "+254",
+    "CountryCode": "KE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ki.png",
     "Country": "Kiribati",
-    "PhonePrefix": "+686"
+    "PhonePrefix": "+686",
+    "CountryCode": "KI"
   },
   {
-    "Flag": "",
-    "Country": "Kosovo",
-    "PhonePrefix": "+383"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kp.png",
+    "Country": "Korea, Democratic People's Republic of",
+    "PhonePrefix": "+850",
+    "CountryCode": "KP"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kr.png",
+    "Country": "Korea, Republic of",
+    "PhonePrefix": "+82",
+    "CountryCode": "KR"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kw.png",
     "Country": "Kuwait",
-    "PhonePrefix": "+965"
+    "PhonePrefix": "+965",
+    "CountryCode": "KW"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kg.png",
     "Country": "Kyrgyzstan",
-    "PhonePrefix": "+996"
+    "PhonePrefix": "+996",
+    "CountryCode": "KG"
   },
   {
-    "Flag": "",
-    "word": "L"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/la.png",
+    "Country": "Lao People's Democratic Republic",
+    "PhonePrefix": "+856",
+    "CountryCode": "LA"
   },
   {
-    "Flag": "",
-    "Country": "Laos",
-    "PhonePrefix": "+856"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lv.png",
     "Country": "Latvia",
-    "PhonePrefix": "+371"
+    "PhonePrefix": "+371",
+    "CountryCode": "LV"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lb.png",
     "Country": "Lebanon",
-    "PhonePrefix": "+961"
+    "PhonePrefix": "+961",
+    "CountryCode": "LB"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ls.png",
     "Country": "Lesotho",
-    "PhonePrefix": "+266"
+    "PhonePrefix": "+266",
+    "CountryCode": "LS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lr.png",
     "Country": "Liberia",
-    "PhonePrefix": "+231"
+    "PhonePrefix": "+231",
+    "CountryCode": "LR"
   },
   {
-    "Flag": "",
-    "Country": "Libya",
-    "PhonePrefix": "+218"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ly.png",
+    "Country": "Libyan Arab Jamahiriya",
+    "PhonePrefix": "+218",
+    "CountryCode": "LY"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/li.png",
     "Country": "Liechtenstein",
-    "PhonePrefix": "+423"
+    "PhonePrefix": "+423",
+    "CountryCode": "LI"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lt.png",
     "Country": "Lithuania",
-    "PhonePrefix": "+370"
+    "PhonePrefix": "+370",
+    "CountryCode": "LT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lu.png",
     "Country": "Luxembourg",
-    "PhonePrefix": "+352"
+    "PhonePrefix": "+352",
+    "CountryCode": "LU"
   },
   {
-    "Flag": "",
-    "word": "M"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mo.png",
+    "Country": "Macao",
+    "PhonePrefix": "+853",
+    "CountryCode": "MO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mk.png",
+    "Country": "Macedonia, the former Yugoslav Republic of",
+    "PhonePrefix": "+389",
+    "CountryCode": "MK"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mg.png",
     "Country": "Madagascar",
-    "PhonePrefix": "+261"
+    "PhonePrefix": "+261",
+    "CountryCode": "MG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mw.png",
     "Country": "Malawi",
-    "PhonePrefix": "+265"
+    "PhonePrefix": "+265",
+    "CountryCode": "MW"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/my.png",
     "Country": "Malaysia",
-    "PhonePrefix": "+60"
+    "PhonePrefix": "+60",
+    "CountryCode": "MY"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mv.png",
     "Country": "Maldives",
-    "PhonePrefix": "+960"
+    "PhonePrefix": "+960",
+    "CountryCode": "MV"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ml.png",
     "Country": "Mali",
-    "PhonePrefix": "+223"
+    "PhonePrefix": "+223",
+    "CountryCode": "ML"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mt.png",
     "Country": "Malta",
-    "PhonePrefix": "+356"
+    "PhonePrefix": "+356",
+    "CountryCode": "MT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mh.png",
     "Country": "Marshall Islands",
-    "PhonePrefix": "+692"
+    "PhonePrefix": "+692",
+    "CountryCode": "MH"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mq.png",
+    "Country": "Martinique",
+    "PhonePrefix": "+596",
+    "CountryCode": "MQ"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mr.png",
     "Country": "Mauritania",
-    "PhonePrefix": "+222"
+    "PhonePrefix": "+222",
+    "CountryCode": "MR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mu.png",
     "Country": "Mauritius",
-    "PhonePrefix": "+230"
+    "PhonePrefix": "+230",
+    "CountryCode": "MU"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/yt.png",
+    "Country": "Mayotte",
+    "PhonePrefix": "+262",
+    "CountryCode": "YT"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mx.png",
     "Country": "Mexico",
-    "PhonePrefix": "+52"
+    "PhonePrefix": "+52",
+    "CountryCode": "MX"
   },
   {
-    "Flag": "",
-    "Country": "Micronesia",
-    "PhonePrefix": "+691"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/fm.png",
+    "Country": "Micronesia, Federated States of",
+    "PhonePrefix": "+691",
+    "CountryCode": "FM"
   },
   {
-    "Flag": "",
-    "Country": "Moldova",
-    "PhonePrefix": "+373"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/md.png",
+    "Country": "Moldova, Republic of",
+    "PhonePrefix": "+373",
+    "CountryCode": "MD"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mc.png",
     "Country": "Monaco",
-    "PhonePrefix": "+377"
+    "PhonePrefix": "+377",
+    "CountryCode": "MC"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mn.png",
     "Country": "Mongolia",
-    "PhonePrefix": "+976"
+    "PhonePrefix": "+976",
+    "CountryCode": "MN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/me.png",
     "Country": "Montenegro",
-    "PhonePrefix": "+382"
+    "PhonePrefix": "+382",
+    "CountryCode": "ME"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ms.png",
+    "Country": "Montserrat",
+    "PhonePrefix": "+1-664",
+    "CountryCode": "MS"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ma.png",
     "Country": "Morocco",
-    "PhonePrefix": "+212"
+    "PhonePrefix": "+212",
+    "CountryCode": "MA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mz.png",
     "Country": "Mozambique",
-    "PhonePrefix": "+258"
+    "PhonePrefix": "+258",
+    "CountryCode": "MZ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mm.png",
     "Country": "Myanmar",
-    "PhonePrefix": "+95"
+    "PhonePrefix": "+95",
+    "CountryCode": "MM"
   },
   {
-    "Flag": "",
-    "word": "N"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/na.png",
     "Country": "Namibia",
-    "PhonePrefix": "+264"
+    "PhonePrefix": "+264",
+    "CountryCode": "NA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/nr.png",
     "Country": "Nauru",
-    "PhonePrefix": "+674"
+    "PhonePrefix": "+674",
+    "CountryCode": "NR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/np.png",
     "Country": "Nepal",
-    "PhonePrefix": "+977"
+    "PhonePrefix": "+977",
+    "CountryCode": "NP"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/nl.png",
     "Country": "Netherlands",
-    "PhonePrefix": "+31"
+    "PhonePrefix": "+31",
+    "CountryCode": "NL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/an.png",
+    "Country": "Netherlands Antilles",
+    "PhonePrefix": "+599",
+    "CountryCode": "AN"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/nc.png",
+    "Country": "New Caledonia",
+    "PhonePrefix": "+687",
+    "CountryCode": "NC"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/nz.png",
     "Country": "New Zealand",
-    "PhonePrefix": "+64"
+    "PhonePrefix": "+64",
+    "CountryCode": "NZ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ni.png",
     "Country": "Nicaragua",
-    "PhonePrefix": "+505"
+    "PhonePrefix": "+505",
+    "CountryCode": "NI"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ne.png",
     "Country": "Niger",
-    "PhonePrefix": "+227"
+    "PhonePrefix": "+227",
+    "CountryCode": "NE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ng.png",
     "Country": "Nigeria",
-    "PhonePrefix": "+234"
+    "PhonePrefix": "+234",
+    "CountryCode": "NG"
   },
   {
-    "Flag": "",
-    "Country": "North Korea",
-    "PhonePrefix": "+850"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/nu.png",
+    "Country": "Niue",
+    "PhonePrefix": "+683",
+    "CountryCode": "NU"
   },
   {
-    "Flag": "",
-    "Country": "North Macedonia",
-    "PhonePrefix": "+389"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/nf.png",
+    "Country": "Norfolk Island",
+    "PhonePrefix": "+672",
+    "CountryCode": "NF"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mp.png",
+    "Country": "Northern Mariana Islands",
+    "PhonePrefix": "+1-670",
+    "CountryCode": "MP"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/no.png",
     "Country": "Norway",
-    "PhonePrefix": "+47"
+    "PhonePrefix": "+47",
+    "CountryCode": "NO"
   },
   {
-    "Flag": "",
-    "word": "O"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/om.png",
     "Country": "Oman",
-    "PhonePrefix": "+968"
+    "PhonePrefix": "+968",
+    "CountryCode": "OM"
   },
   {
-    "Flag": "",
-    "word": "P"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pk.png",
     "Country": "Pakistan",
-    "PhonePrefix": "+92"
+    "PhonePrefix": "+92",
+    "CountryCode": "PK"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pw.png",
     "Country": "Palau",
-    "PhonePrefix": "+680"
+    "PhonePrefix": "+680",
+    "CountryCode": "PW"
   },
   {
-    "Flag": "",
-    "Country": "Palestine",
-    "PhonePrefix": "+970"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ps.png",
+    "Country": "Palestinian Territory, Occupied",
+    "PhonePrefix": "+970",
+    "CountryCode": "PS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pa.png",
     "Country": "Panama",
-    "PhonePrefix": "+507"
+    "PhonePrefix": "+507",
+    "CountryCode": "PA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pg.png",
     "Country": "Papua New Guinea",
-    "PhonePrefix": "+675"
+    "PhonePrefix": "+675",
+    "CountryCode": "PG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/py.png",
     "Country": "Paraguay",
-    "PhonePrefix": "+595"
+    "PhonePrefix": "+595",
+    "CountryCode": "PY"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pe.png",
     "Country": "Peru",
-    "PhonePrefix": "+51"
+    "PhonePrefix": "+51",
+    "CountryCode": "PE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ph.png",
     "Country": "Philippines",
-    "PhonePrefix": "+63"
+    "PhonePrefix": "+63",
+    "CountryCode": "PH"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pn.png",
+    "Country": "Pitcairn",
+    "PhonePrefix": "+870",
+    "CountryCode": "PN"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pl.png",
     "Country": "Poland",
-    "PhonePrefix": "+48"
+    "PhonePrefix": "+48",
+    "CountryCode": "PL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pt.png",
     "Country": "Portugal",
-    "PhonePrefix": "+351"
+    "PhonePrefix": "+351",
+    "CountryCode": "PT"
   },
   {
-    "Flag": "",
-    "word": "Q"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pr.png",
+    "Country": "Puerto Rico",
+    "PhonePrefix": "+1-787",
+    "CountryCode": "PR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/qa.png",
     "Country": "Qatar",
-    "PhonePrefix": "+974"
+    "PhonePrefix": "+974",
+    "CountryCode": "QA"
   },
   {
-    "Flag": "",
-    "word": "R"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/re.png",
+    "Country": "Réunion",
+    "PhonePrefix": "+262",
+    "CountryCode": "RE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ro.png",
     "Country": "Romania",
-    "PhonePrefix": "+40"
+    "PhonePrefix": "+40",
+    "CountryCode": "RO"
   },
   {
-    "Flag": "",
-    "Country": "Russia",
-    "PhonePrefix": "+7"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ru.png",
+    "Country": "Russian Federation",
+    "PhonePrefix": "+7",
+    "CountryCode": "RU"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/rw.png",
     "Country": "Rwanda",
-    "PhonePrefix": "+250"
+    "PhonePrefix": "+250",
+    "CountryCode": "RW"
   },
   {
-    "Flag": "",
-    "word": "S"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/bl.png",
+    "Country": "Saint Barthélemy",
+    "PhonePrefix": "+590",
+    "CountryCode": "BL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sh.png",
+    "Country": "Saint Helena, Ascension and Tristan da Cunha",
+    "PhonePrefix": "+290",
+    "CountryCode": "SH"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/kn.png",
     "Country": "Saint Kitts and Nevis",
-    "PhonePrefix": "+1-869"
+    "PhonePrefix": "+1-869",
+    "CountryCode": "KN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lc.png",
     "Country": "Saint Lucia",
-    "PhonePrefix": "+1-758"
+    "PhonePrefix": "+1-758",
+    "CountryCode": "LC"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/mf.png",
+    "Country": "Saint Martin (French part)",
+    "PhonePrefix": "+590",
+    "CountryCode": "MF"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/pm.png",
+    "Country": "Saint Pierre and Miquelon",
+    "PhonePrefix": "+508",
+    "CountryCode": "PM"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/vc.png",
     "Country": "Saint Vincent and the Grenadines",
-    "PhonePrefix": "+1-784"
+    "PhonePrefix": "+1-784",
+    "CountryCode": "VC"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ws.png",
     "Country": "Samoa",
-    "PhonePrefix": "+685"
+    "PhonePrefix": "+685",
+    "CountryCode": "WS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sm.png",
     "Country": "San Marino",
-    "PhonePrefix": "+378"
+    "PhonePrefix": "+378",
+    "CountryCode": "SM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/st.png",
     "Country": "Sao Tome and Principe",
-    "PhonePrefix": "+239"
+    "PhonePrefix": "+239",
+    "CountryCode": "ST"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sa.png",
     "Country": "Saudi Arabia",
-    "PhonePrefix": "+966"
+    "PhonePrefix": "+966",
+    "CountryCode": "SA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sn.png",
     "Country": "Senegal",
-    "PhonePrefix": "+221"
+    "PhonePrefix": "+221",
+    "CountryCode": "SN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/rs.png",
     "Country": "Serbia",
-    "PhonePrefix": "+381"
+    "PhonePrefix": "+381",
+    "CountryCode": "RS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sc.png",
     "Country": "Seychelles",
-    "PhonePrefix": "+248"
+    "PhonePrefix": "+248",
+    "CountryCode": "SC"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sl.png",
     "Country": "Sierra Leone",
-    "PhonePrefix": "+232"
+    "PhonePrefix": "+232",
+    "CountryCode": "SL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sg.png",
     "Country": "Singapore",
-    "PhonePrefix": "+65"
+    "PhonePrefix": "+65",
+    "CountryCode": "SG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sx.png",
+    "Country": "Sint Maarten (Dutch part)",
+    "PhonePrefix": "+1-721",
+    "CountryCode": "SX"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sk.png",
     "Country": "Slovakia",
-    "PhonePrefix": "+421"
+    "PhonePrefix": "+421",
+    "CountryCode": "SK"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/si.png",
     "Country": "Slovenia",
-    "PhonePrefix": "+386"
+    "PhonePrefix": "+386",
+    "CountryCode": "SI"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sb.png",
     "Country": "Solomon Islands",
-    "PhonePrefix": "+677"
+    "PhonePrefix": "+677",
+    "CountryCode": "SB"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/so.png",
     "Country": "Somalia",
-    "PhonePrefix": "+252"
+    "PhonePrefix": "+252",
+    "CountryCode": "SO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/za.png",
     "Country": "South Africa",
-    "PhonePrefix": "+27"
+    "PhonePrefix": "+27",
+    "CountryCode": "ZA"
   },
   {
-    "Flag": "",
-    "Country": "South Korea",
-    "PhonePrefix": "+82"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gs.png",
+    "Country": "South Georgia and the South Sandwich Islands",
+    "PhonePrefix": "+500",
+    "CountryCode": "GS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ss.png",
     "Country": "South Sudan",
-    "PhonePrefix": "+211"
+    "PhonePrefix": "+211",
+    "CountryCode": "SS"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/es.png",
     "Country": "Spain",
-    "PhonePrefix": "+34"
+    "PhonePrefix": "+34",
+    "CountryCode": "ES"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/lk.png",
     "Country": "Sri Lanka",
-    "PhonePrefix": "+94"
+    "PhonePrefix": "+94",
+    "CountryCode": "LK"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sd.png",
     "Country": "Sudan",
-    "PhonePrefix": "+249"
+    "PhonePrefix": "+249",
+    "CountryCode": "SD"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sr.png",
     "Country": "Suriname",
-    "PhonePrefix": "+597"
+    "PhonePrefix": "+597",
+    "CountryCode": "SR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sj.png",
+    "Country": "Svalbard and Jan Mayen",
+    "PhonePrefix": "+47",
+    "CountryCode": "SJ"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sz.png",
+    "Country": "Swaziland",
+    "PhonePrefix": "+268",
+    "CountryCode": "SZ"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/se.png",
     "Country": "Sweden",
-    "PhonePrefix": "+46"
+    "PhonePrefix": "+46",
+    "CountryCode": "SE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ch.png",
     "Country": "Switzerland",
-    "PhonePrefix": "+41"
+    "PhonePrefix": "+41",
+    "CountryCode": "CH"
   },
   {
-    "Flag": "",
-    "Country": "Syria",
-    "PhonePrefix": "+963"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/sy.png",
+    "Country": "Syrian Arab Republic",
+    "PhonePrefix": "+963",
+    "CountryCode": "SY"
   },
   {
-    "Flag": "",
-    "word": "T"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tw.png",
+    "Country": "Taiwan, Province of China",
+    "PhonePrefix": "+886",
+    "CountryCode": "TW"
   },
   {
-    "Flag": "",
-    "Country": "Taiwan",
-    "PhonePrefix": "+886"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tj.png",
     "Country": "Tajikistan",
-    "PhonePrefix": "+992"
+    "PhonePrefix": "+992",
+    "CountryCode": "TJ"
   },
   {
-    "Flag": "",
-    "Country": "Tanzania",
-    "PhonePrefix": "+255"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tz.png",
+    "Country": "Tanzania, United Republic of",
+    "PhonePrefix": "+255",
+    "CountryCode": "TZ"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/th.png",
     "Country": "Thailand",
-    "PhonePrefix": "+66"
+    "PhonePrefix": "+66",
+    "CountryCode": "TH"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tl.png",
     "Country": "Timor-Leste",
-    "PhonePrefix": "+670"
+    "PhonePrefix": "+670",
+    "CountryCode": "TL"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tg.png",
     "Country": "Togo",
-    "PhonePrefix": "+228"
+    "PhonePrefix": "+228",
+    "CountryCode": "TG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tk.png",
+    "Country": "Tokelau",
+    "PhonePrefix": "+690",
+    "CountryCode": "TK"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/to.png",
     "Country": "Tonga",
-    "PhonePrefix": "+676"
+    "PhonePrefix": "+676",
+    "CountryCode": "TO"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tt.png",
     "Country": "Trinidad and Tobago",
-    "PhonePrefix": "+1-868"
+    "PhonePrefix": "+1-868",
+    "CountryCode": "TT"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tn.png",
     "Country": "Tunisia",
-    "PhonePrefix": "+216"
+    "PhonePrefix": "+216",
+    "CountryCode": "TN"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tr.png",
     "Country": "Turkey",
-    "PhonePrefix": "+90"
+    "PhonePrefix": "+90",
+    "CountryCode": "TR"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tm.png",
     "Country": "Turkmenistan",
-    "PhonePrefix": "+993"
+    "PhonePrefix": "+993",
+    "CountryCode": "TM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tc.png",
+    "Country": "Turks and Caicos Islands",
+    "PhonePrefix": "+1-649",
+    "CountryCode": "TC"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/tv.png",
     "Country": "Tuvalu",
-    "PhonePrefix": "+688"
+    "PhonePrefix": "+688",
+    "CountryCode": "TV"
   },
   {
-    "Flag": "",
-    "word": "U"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ug.png",
     "Country": "Uganda",
-    "PhonePrefix": "+256"
+    "PhonePrefix": "+256",
+    "CountryCode": "UG"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ua.png",
     "Country": "Ukraine",
-    "PhonePrefix": "+380"
+    "PhonePrefix": "+380",
+    "CountryCode": "UA"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ae.png",
     "Country": "United Arab Emirates",
-    "PhonePrefix": "+971"
+    "PhonePrefix": "+971",
+    "CountryCode": "AE"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/gb.png",
     "Country": "United Kingdom",
-    "PhonePrefix": "+44"
+    "PhonePrefix": "+44",
+    "CountryCode": "GB"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/us.png",
     "Country": "United States",
-    "PhonePrefix": "+1"
+    "PhonePrefix": "+1",
+    "CountryCode": "US"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/um.png",
+    "Country": "United States Minor Outlying Islands",
+    "PhonePrefix": "+1",
+    "CountryCode": "UM"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/uy.png",
     "Country": "Uruguay",
-    "PhonePrefix": "+598"
+    "PhonePrefix": "+598",
+    "CountryCode": "UY"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/uz.png",
     "Country": "Uzbekistan",
-    "PhonePrefix": "+998"
+    "PhonePrefix": "+998",
+    "CountryCode": "UZ"
   },
   {
-    "Flag": "",
-    "word": "V"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/vu.png",
     "Country": "Vanuatu",
-    "PhonePrefix": "+678"
+    "PhonePrefix": "+678",
+    "CountryCode": "VU"
   },
   {
-    "Flag": "",
-    "Country": "Vatican City",
-    "PhonePrefix": "+379"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ve.png",
+    "Country": "Venezuela, Bolivarian Republic of",
+    "PhonePrefix": "+58",
+    "CountryCode": "VE"
   },
   {
-    "Flag": "",
-    "Country": "Venezuela",
-    "PhonePrefix": "+58"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/vn.png",
+    "Country": "Viet Nam",
+    "PhonePrefix": "+84",
+    "CountryCode": "VN"
   },
   {
-    "Flag": "",
-    "Country": "Vietnam",
-    "PhonePrefix": "+84"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/vg.png",
+    "Country": "Virgin Islands, British",
+    "PhonePrefix": "+1-284",
+    "CountryCode": "VG"
   },
   {
-    "Flag": "",
-    "word": "Y"
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/vi.png",
+    "Country": "Virgin Islands, U.S.",
+    "PhonePrefix": "+1-340",
+    "CountryCode": "VI"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/wf.png",
+    "Country": "Wallis and Futuna",
+    "PhonePrefix": "+681",
+    "CountryCode": "WF"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/eh.png",
+    "Country": "Western Sahara",
+    "PhonePrefix": "+212",
+    "CountryCode": "EH"
+  },
+  {
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/ye.png",
     "Country": "Yemen",
-    "PhonePrefix": "+967"
+    "PhonePrefix": "+967",
+    "CountryCode": "YE"
   },
   {
-    "Flag": "",
-    "word": "Z"
-  },
-  {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/zm.png",
     "Country": "Zambia",
-    "PhonePrefix": "+260"
+    "PhonePrefix": "+260",
+    "CountryCode": "ZM"
   },
   {
-    "Flag": "",
+    "Flag": "https://raw.githubusercontent.com/mr-uclml/All-Country-Flags/main/flag-icons/zw.png",
     "Country": "Zimbabwe",
-    "PhonePrefix": "+263"
+    "PhonePrefix": "+263",
+    "CountryCode": "ZW"
   }
 ]
